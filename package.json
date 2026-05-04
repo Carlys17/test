@@ -2,7 +2,7 @@
   "name": "test",
   "version": "1.0.0",
   "dependencies": {
-    "next": "^15.2.0",
+    "next": "15.2.8",
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
   },
